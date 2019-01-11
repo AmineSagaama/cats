@@ -274,6 +274,7 @@ Here's a (non-exhaustive) list of companies that use Cats in production. Don't s
 - [Wix.com](https://www.wix.com)
 - [Zalando](https://zalando.com)
 - [47 Degrees](https://www.47deg.com)
+- [Ebiznext](http://www.ebiznext.com)
 
 ### Maintainers
 
